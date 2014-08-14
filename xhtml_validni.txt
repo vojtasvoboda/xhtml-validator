@@ -1,0 +1,14 @@
+<!DOCTYPE PUBLIC cokoli>
+<html>
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html" />
+</head>
+  
+<body>    
+	<p class="top">Text na HTML strance...</p>
+</body>
+
+</html>
+
+<!-- test komentare -->

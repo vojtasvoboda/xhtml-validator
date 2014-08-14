@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="cs" />
+<meta name="keywords" content="klicova slova" />
+<meta name="description" content="popis webu" />
+<meta name="copyright" content="autor" />
+<meta name="distribution" content="global" />
+<meta name="author" content="autor" />
+<meta name="language" content="Czech" />
+<meta http-equiv="Expires" content="-1" />
+<meta name="robots" content="all,follow" />
+
+<title>Firma s.r.o. - Popisek firmy</title>
+
+<link rel="icon" href="favicon.ico" />
+<link rel="stylesheet" href="styl/styl.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+  <div id="content">
+    <p>Ahoj</p>
+    <img src="" alt="obrazek" />
+  </div><!-- end of DIV content -->
+  
+  <div id="footer">
+    <p>Copyright (c) 2009 <a href="http://www.firma.cz/">Název</a></p>
+  </div><!--end of DIV footer-->    
+  
+</div>
+
+</body>
+</html>
+
+<!--konec souboru -->
